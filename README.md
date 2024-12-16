@@ -43,7 +43,7 @@
    git clone https://github.com/your-username/VisionVoice.git
    cd VisionVoice
 
-   ## Installation  
+## Installation  
 
 ### Prerequisites  
 
@@ -56,4 +56,55 @@
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+
+## Usage  
+
+1. Connect a camera to your device (e.g., USB webcam or built-in camera).  
+2. Start the application.  
+3. Point the camera at objects, and the application will detect them and provide voice feedback.  
+
+## Libraries and Tools Used  
+
+- **YOLOv5**: For real-time object detection.  
+- **PyTorch**: Deep learning framework for running the YOLO model.  
+- **gTTS**: Google Text-to-Speech library for converting text to audio.  
+- **OpenCV**: For video capture and frame processing.  
+
+---
+
+## Future Enhancements  
+
+- Support for multiple languages in speech output.  
+- Improved user interface and voice customization.  
+- Integration with wearable devices like smart glasses.  
+
+---
+
+## Contributing  
+
+We welcome contributions! Please follow these steps:  
+
+1. Fork the repository.  
+2. Create a new branch for your feature or fix.  
+3. Submit a pull request with a detailed description of your changes.  
+
+---
+
+## License  
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.  
+
+---
+
+## Acknowledgments  
+
+Special thanks to:  
+
+- The developers of YOLO for their groundbreaking work in object detection.  
+- OpenAI and other open-source communities for their valuable tools and libraries.  
+
+---
+
+Feel free to reach out for feedback or collaboration ideas!  
+
 
