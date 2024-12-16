@@ -4,6 +4,21 @@
 
 ---
 
+## Table of Contents  
+1. [Features](#features)  
+2. [How It Works](#how-it-works)  
+3. [Installation](#installation)  
+   - [Prerequisites](#prerequisites)  
+   - [Steps](#steps)  
+4. [Usage](#usage)  
+5. [Libraries and Tools Used](#libraries-and-tools-used)  
+6. [Future Enhancements](#future-enhancements)  
+7. [Contributing](#contributing)  
+8. [License](#license)  
+9. [Acknowledgments](#acknowledgments)  
+
+---
+
 ## Features  
 
 - **Real-Time Object Detection**: Uses the YOLO model to identify objects in the camera feed.  
