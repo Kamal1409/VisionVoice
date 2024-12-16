@@ -42,3 +42,18 @@
    ```bash
    git clone https://github.com/your-username/VisionVoice.git
    cd VisionVoice
+
+   ## Installation  
+
+### Prerequisites  
+
+- Python 3.7 or higher  
+- A compatible GPU (optional but recommended for real-time performance)  
+- Required libraries (detailed below)  
+
+### Steps  
+
+2. Install dependencies:  
+   ```bash
+   pip install -r requirements.txt
+
