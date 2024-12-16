@@ -56,6 +56,11 @@
 2. Install dependencies:  
    ```bash
    pip install -r requirements.txt
+3. Download the YOLO Model Weights  
+
+ Download the YOLO weights file (e.g., `yolov5s.pt`) from the official YOLO repository or a trusted source.  
+ Place the downloaded weights file in the `models/` directory of this project.  
+
 
 ## Usage  
 
