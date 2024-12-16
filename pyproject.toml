@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "ecs"
+version = "0.1.0"
+description = ""
+authors = ["adikpb <67222969+adikpb@users.noreply.github.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyttsx3 = "^2.98"
+tensorflow = "~2.16"
+opencv-python = "^4.10.0.84"
+pillow = "^10.4.0"
+keras = "^3.6.0"
+matplotlib = "^3.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
